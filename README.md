@@ -3,7 +3,7 @@
 A secure full-stack password manager web application built with React, Node.js, and MongoDB.
 
 ## 🌐 Live Demo
-- **Frontend:** [your-vercel-url.vercel.app]([https://your-vercel-url.vercel.app](https://password-manager-client-dheerajsa20s-projects.vercel.app/))
+- **Frontend:** [https://password-manager-client-dheerajsa20s-projects.vercel.app/](https://password-manager-client-dheerajsa20s-projects.vercel.app/)
 - **Backend:** [pwd-manager-api.onrender.com](https://pwd-manager-api.onrender.com)
 
 ## 🛠️ Tech Stack
