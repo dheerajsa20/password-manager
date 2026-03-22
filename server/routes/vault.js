@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const jwt = require('jsonwebtoken');
-const Password = require('../models/password');
+const Password = require('../models/PasswordModel');
 const { encrypt, decrypt } = require('../utils/crypto');
 
 function authMiddleware(req, res, next) {
